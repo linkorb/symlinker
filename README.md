@@ -29,7 +29,7 @@ links:
     - "~/my-content:./my-content" # ... or any other arbitrary symlink
 ```
 
-Your `symlinker.yaml` file is specific for your development environment, so be sure to add it to your `~/.gitignore` (in your home-dir, not `./gitignore` in the repo!)
+Your `symlinker.yaml` file is specific for your development environment, so be sure to add it to your `~/.gitignore` (in your home-dir, not `./.gitignore` in the repo!)
 
 Then you can quickly (re)install the symlinks:
 
