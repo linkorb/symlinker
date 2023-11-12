@@ -2,9 +2,12 @@ codeowners:
 - owners:
   - '@joostfaassen'
   pattern: '*'
-description: ''
+description: 'symlinker: develop packages locally through symlinks (composer, npm, ansible-galaxy)'
 license: mit
+license_year: 2023
 name: symlinker
-readme:
-  enable_generation: false
 type: other
+visibility: public
+github:
+  features:
+    issues: true
