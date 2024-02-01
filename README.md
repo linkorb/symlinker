@@ -8,7 +8,6 @@ Creates or updates symlinks from a config file
 
 * Develop packages locally (composer, npm, ansible-galaxy)
 
-Build status: [![Release](https://github.com/linkorb/symlinker/actions/workflows/30-release-and-build.yaml/badge.svg)](https://github.com/linkorb/symlinker/actions/workflows/30-release-and-build.yaml)
 
 
 ## Installation:
