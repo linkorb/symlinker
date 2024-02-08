@@ -6,7 +6,7 @@ description: 'symlinker: develop packages locally through symlinks (composer, np
 license: mit
 license_year: 2023
 name: symlinker
-type: application
+type: php-cli
 visibility: public
 github:
   features:
